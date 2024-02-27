@@ -6,3 +6,7 @@ export class AppService {
     return 'Hello World!';
   }
 }
+
+/*
+um serviço no NEST é um lugar propício para regras de negócio
+*/
